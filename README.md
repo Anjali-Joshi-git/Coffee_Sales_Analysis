@@ -57,19 +57,19 @@ Key Discoveries
 ➜ Average CLV: ₹84
 
 ## 💡 Recommendations
-🔹Area	Recommendation	Expected Impact
-🔹VIP Retention	Personalized offers, loyalty perks	↑ Revenue from top customers
-🔹Sales Growth	Focus on Tues + late morning rush	Better staffing & marketing efficiency
-🔹Marketing	Target low-performing days	More balanced weekly sales
-🔹Inventory Planning	Use forecasting insights	Lower wastage, optimized ordering
+* Area	Recommendation	Expected Impact
+* VIP Retention	Personalized offers, loyalty perks	↑ Revenue from top customers
+* Sales Growth	Focus on Tues + late morning rush	Better staffing & marketing efficiency
+* Marketing	Target low-performing days	More balanced weekly sales
+* Inventory Planning	Use forecasting insights	Lower wastage, optimized ordering
 
 ## 🛠️ Tech Stack
-🔹Category	Tools
-🔹Language	Python
-🔹Data Handling	Pandas, NumPy
-🔹Visualization	Matplotlib, Plotly (optional)
-🔹Forecasting	Statsmodels / Prophet / ARIMA
-🔹Reporting	Jupyter Notebook / PDF
+* Category	Tools
+* Language	Python
+* Data Handling	Pandas, NumPy
+* Visualization	Matplotlib, Plotly (optional)
+* Forecasting	Statsmodels / Prophet / ARIMA
+* Reporting	Jupyter Notebook / PDF
 
 ## 📂 Repository Structure
 
@@ -85,9 +85,9 @@ Key Discoveries
 
 ## 🚀 Future Enhancements
 
-✔ Add product-level sales analytics
-✔ Deploy interactive dashboard (Streamlit/Power BI)
-✔ Automate weekly forecasting pipeline
+*  Add product-level sales analytics
+*  Deploy interactive dashboard (Streamlit/Power BI)
+*  Automate weekly forecasting pipeline
 
 ## 🏁 Conclusion
 
