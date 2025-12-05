@@ -29,24 +29,24 @@ This project analyzes coffee shop sales data to extract business insights, forec
 
 ➜ Clear weekly patterns with weekend fluctuations
 
-2️⃣ Sales Forecasting
+### 2️⃣ Sales Forecasting
 
 * Multiple forecasting models applied 🤖
 * Consensus forecast for accuracy
 * Forecast Insights
 
-Period	Forecast	Notes
+#### Period	Forecast	Notes
   * Next Day	₹320	With confidence interval
   * Next Week	₹1,110 – ₹1,698	Seasonally adjusted
   * Next Month	₹7,346	Helps plan supplies & staffing
 
-3️⃣ Customer Purchase Analysis
+### 3️⃣ Customer Purchase Analysis
 
 * Segmentation into VIP / Regular / Occasional
 * Retention & revenue contribution analysis
 * Customer Lifetime Value (CLV) estimation
 
-Key Discoveries
+## Key Discoveries
 
 ➜ Top 3 VIPs generate ~21% of revenue
 
